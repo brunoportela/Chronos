@@ -3,14 +3,6 @@ import logo from '../assets/logo.svg';
 import '../stylesheets/Home.scss';
 
 const Home = () => {
-  // const myRef = useRef(null);
-  // const executeScroll = () => scroll(myRef);
-  // const scroll = () => {
-  // if (ref && ref.current) {
-  // ref.scrollIntoView();
-  // }
-  // };
-
   return (
     <div className="section-home">
       <div className="hero-container">

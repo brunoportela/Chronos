@@ -18,10 +18,54 @@ import bioVincePic from '../../assets/Bio_picture_Vince.png';
 import bioMattPic from '../../assets/Bio_picture_Matt.jpg';
 import bioDerekPic from '../../assets/Bio_picture_Derek.jpg';
 import bioKitPic from '../../assets/Bio_picture_Kit.jpg';
+import bioDannyPic from '../../assets/Bio_picture_Danny.jpg';
+import bioTiffanyPic from '../../assets/Bio_picture_Tiffany.jpg';
+import bioNachiketPic from '../../assets/Bio_picture_Nachiket.jpg';
+import bioBrunoPic from '../../assets/Bio_picture_Bruno.jpg';
 
 import '../../stylesheets/Team.scss';
 
 const bios = [
+  {
+    name: 'Nachiket Pingle',
+    bioParagraph:
+    'Nachiket is a fullstack software engineer who seeks out singular challenges and brings forth his eclectic background to provide a sharp, well-thought-out and highly customized solution.  He believes that good leaders are always good followers first.',
+    picture: bioNachiketPic,
+    contact: {
+      gitHub: 'https://github.com/nachiket1',
+      linkedIn: 'https://www.linkedin.com/in/nachiketpingle',
+    },
+  },
+  {
+    name: 'Tiffany Graves',
+    bioParagraph:
+      'Tiffany is a software engineer who is passionate about effective modular design and enjoys using her creativity to explore techniques and tools to improve user experiences through innovation and latest trends.',
+    picture: bioTiffanyPic,
+    contact: {
+      gitHub: 'https://github.com/tngraves',
+      linkedIn: 'https://www.linkedin.com/in/tngraves/',
+    },
+  },
+  {
+    name: 'Bruno Portela',
+    bioParagraph:
+      'Bruno is a Software Engineer who takes pride on designing and building high quality products that makes people\'s life easier. He is a great team player and is always willing to coach new developers. He loves dogs, punk rock and videogames.',
+    picture: bioBrunoPic,
+    contact: {
+      gitHub: 'https://github.com/brunoportela',
+      linkedIn: 'https://www.linkedin.com/in/bgp/',
+    },
+  },
+  {
+    name: 'Danny Martinez',
+    bioParagraph:
+      'Danny is a full-stack software engineer keen on ensuring effective, understandable and hardened code  throughout the Chronos application.',
+    picture: bioDannyPic,
+    contact: {
+      gitHub: 'https://github.com/j-dannymartinez',
+      linkedIn: 'https://www.linkedin.com/in/jdannymartinez/',
+    },
+  },  
   {
     name: 'Vince Ho',
     bioParagraph:

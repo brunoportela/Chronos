@@ -39,7 +39,6 @@ const Demo = () => {
             <p>3. Ready to go! View server health metrics, microservice route tracing, and error logs.</p>
           </figcaption>
         </div>
-        {/* <video src={demoVideo} controls={true} /> */}
       </div>
     </div>
   );
