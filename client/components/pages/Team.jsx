@@ -63,7 +63,7 @@ const bios = [
     picture: bioDannyPic,
     contact: {
       gitHub: 'https://github.com/j-dannymartinez',
-      linkedIn: 'https://www.linkedin.com/in/jdannymartinez/',
+      linkedIn: 'https://www.linkedin.com/in/jdanielmartinez/',
     },
   },  
   {
